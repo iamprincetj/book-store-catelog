@@ -30,7 +30,6 @@
   }
 }
 
-
 body {
   background-color: var(--Rose100);
   font-family: "RedHatText", sans-serif;
@@ -42,9 +41,6 @@ img {
 }
 
 /* CONTAINER */
-
-.container {
-}
 
 .container .m-auto {
   margin: auto;
@@ -155,7 +151,6 @@ form .search-btn {
   opacity: 0;
   position: relative;
 }
-
 
 .book-list .book-image-container {
   background-repeat: no-repeat;

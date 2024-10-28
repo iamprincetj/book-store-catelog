@@ -51,7 +51,7 @@ This is a solution for Hack51 frontend bookstore catelog challenge
 
 # Link
 
-- See project - [HERE]()
+- See project - [HERE](https://iamprincetj.github.io/book-store-catelog/)
 
 # Author
 

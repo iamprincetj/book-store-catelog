@@ -68,7 +68,7 @@ const populatePage = (dataParam, currentBookIndex) => {
     // This condition help with the pagination
     if (idx >= firstShownBookIdx && idx <= lastShownBookIdx) {
       const randonNum = Math.floor(Math.random() * 12);
-      const image = `/images/book-cover-${randonNum}.png`;
+      const image = `images/book-cover-${randonNum}.png`;
       const li = document.createElement("div");
       li.classList.add("book-list");
       const div = document.createElement("div");
