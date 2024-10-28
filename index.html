@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Book Store</title>
+    <link rel="stylesheet" href="css/style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <div class="content-container">
+        <header class="header-container">
+          <div class="header-content m-auto">
+            <form action="" class="form">
+              <input type="text" placeholder="Search..." class="search-input" />
+              <button type="button" class="search-btn">Search</button>
+            </form>
+            <div class="select-container">
+              <span>Filter by genre:</span>
+              <select name="genres" id="select-genres" title="select genres">
+                <option value="All genres">All genres</option>
+              </select>
+            </div>
+          </div>
+        </header>
+        <main class="m-auto main-container">
+          <section class="book-section">
+            <h1>Books</h1>
+            <div class="book-lists-container"></div>
+          </section>
+  
+          <div class="paginate-container">
+          </div>
+        </main>
+      </div>
+      <footer></footer>
+    </div>
+    <script src="js/main.js"></script>
+  </body>
+</html>

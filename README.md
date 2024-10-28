@@ -8,6 +8,7 @@ This is a solution for Hack51 frontend bookstore catelog challenge
   - [Challenge](#challenge)
 - [My Process](#my-process)
   - [Built With](#built-with)
+  - [Tackled Each Challenge](#tackled-each-challenge)
   - [Requirements](#requirements)
 - [Author](#author)
 

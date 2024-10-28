@@ -1,0 +1,252 @@
+[
+  {
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "genre": "Fiction"
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "genre": "Fiction"
+  },
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "genre": "Dystopian"
+  },
+  {
+    "title": "A Brief History of Time",
+    "author": "Stephen Hawking",
+    "genre": "Science"
+  },
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "genre": "Classics"
+  },
+  {
+    "title": "The Lean Startup",
+    "author": "Eric Ries",
+    "genre": "Business"
+  },
+  {
+    "title": "The Art of War",
+    "author": "Sun Tzu",
+    "genre": "Philosophy"
+  },
+  {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "genre": "Romance"
+  },
+  {
+    "title": "Sapiens: A Brief History of Humankind",
+    "author": "Yuval Noah Harari",
+    "genre": "History"
+  },
+  {
+    "title": "The Road",
+    "author": "Cormac McCarthy",
+    "genre": "Post-Apocalyptic"
+  },
+  {
+    "title": "The Pragmatic Programmer",
+    "author": "Andrew Hunt and David Thomas",
+    "genre": "Technology"
+  },
+  {
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "genre": "Technology"
+  },
+  {
+    "title": "Design Patterns",
+    "author": "Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides",
+    "genre": "Technology"
+  },
+  {
+    "title": "The Design of Everyday Things",
+    "author": "Don Norman",
+    "genre": "Design"
+  },
+  {
+    "title": "Cracking the Coding Interview",
+    "author": "Gayle Laakmann McDowell",
+    "genre": "Technology"
+  },
+  {
+    "title": "The Power of Habit",
+    "author": "Charles Duhigg",
+    "genre": "Self-Help"
+  },
+  {
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "genre": "Self-Help"
+  },
+  {
+    "title": "The Subtle Art of Not Giving a F*ck",
+    "author": "Mark Manson",
+    "genre": "Self-Help"
+  },
+  {
+    "title": "Thinking, Fast and Slow",
+    "author": "Daniel Kahneman",
+    "genre": "Psychology"
+  },
+  {
+    "title": "Meditations",
+    "author": "Marcus Aurelius",
+    "genre": "Philosophy"
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "genre": "Fiction"
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "genre": "Fiction"
+  },
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "genre": "Dystopian"
+  },
+  {
+    "title": "A Brief History of Time",
+    "author": "Stephen Hawking",
+    "genre": "Science"
+  },
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "genre": "Classics"
+  },
+  {
+    "title": "The Lean Startup",
+    "author": "Eric Ries",
+    "genre": "Business"
+  },
+  {
+    "title": "The Art of War",
+    "author": "Sun Tzu",
+    "genre": "Philosophy"
+  },
+  {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "genre": "Romance"
+  },
+  {
+    "title": "Sapiens: A Brief History of Humankind",
+    "author": "Yuval Noah Harari",
+    "genre": "History"
+  },
+  {
+    "title": "The Road",
+    "author": "Cormac McCarthy",
+    "genre": "Post-Apocalyptic"
+  },
+  {
+    "title": "The Pragmatic Programmer",
+    "author": "Andrew Hunt and David Thomas",
+    "genre": "Technology"
+  },
+  {
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "genre": "Technology"
+  },
+  {
+    "title": "Design Patterns",
+    "author": "Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides",
+    "genre": "Technology"
+  },
+  {
+    "title": "The Design of Everyday Things",
+    "author": "Don Norman",
+    "genre": "Design"
+  },
+  {
+    "title": "Cracking the Coding Interview",
+    "author": "Gayle Laakmann McDowell",
+    "genre": "Technology"
+  },
+  {
+    "title": "The Power of Habit",
+    "author": "Charles Duhigg",
+    "genre": "Self-Help"
+  },
+  {
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "genre": "Self-Help"
+  },
+  {
+    "title": "The Subtle Art of Not Giving a F*ck",
+    "author": "Mark Manson",
+    "genre": "Self-Help"
+  },
+  {
+    "title": "Thinking, Fast and Slow",
+    "author": "Daniel Kahneman",
+    "genre": "Psychology"
+  },
+  {
+    "title": "Meditations",
+    "author": "Marcus Aurelius",
+    "genre": "Philosophy"
+  },
+  {
+    "title": "The Pragmatic Programmer",
+    "author": "Andrew Hunt and David Thomas",
+    "genre": "Technology"
+  },
+  {
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "genre": "Technology"
+  },
+  {
+    "title": "Design Patterns",
+    "author": "Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides",
+    "genre": "Technology"
+  },
+  {
+    "title": "The Design of Everyday Things",
+    "author": "Don Norman",
+    "genre": "Design"
+  },
+  {
+    "title": "Cracking the Coding Interview",
+    "author": "Gayle Laakmann McDowell",
+    "genre": "Technology"
+  },
+  {
+    "title": "The Power of Habit",
+    "author": "Charles Duhigg",
+    "genre": "Self-Help"
+  },
+  {
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "genre": "Self-Help"
+  },
+  {
+    "title": "The Subtle Art of Not Giving a F*ck",
+    "author": "Mark Manson",
+    "genre": "Self-Help"
+  },
+  {
+    "title": "Thinking, Fast and Slow",
+    "author": "Daniel Kahneman",
+    "genre": "Psychology"
+  },
+  {
+    "title": "Meditations",
+    "author": "Marcus Aurelius",
+    "genre": "Philosophy"
+  }
+]
