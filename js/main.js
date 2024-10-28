@@ -62,6 +62,8 @@ const populatePage = (dataParam, currentBookIndex) => {
   bookListContainer.innerHTML = "";
   const bookList = [];
 
+  console.log(firstShownBookIdx, lastShownBookIdx);
+
   // Displays all the nooks to the page
 
   data.forEach((val, idx) => {
@@ -88,16 +90,6 @@ const populatePage = (dataParam, currentBookIndex) => {
       bookList.push(li);
     }
   });
-
-  if (bookList.length < 1) {
-    if (searchInputValue && selectElementValue) {
-      bookListContainer.innerHTML = `No Books by ${searchInputValue} with genre ${selectElementValue}`;
-    } else {
-      bookListContainer.innerHTML = "No Books";
-    }
-
-    return null;
-  }
 
   bookList.forEach((val) => {
     bookListContainer.appendChild(val);
@@ -146,7 +138,7 @@ const getSearchedBooks = async (e) => {
     populatePage(searchedBooks, booksPerPage);
     paginateContainer.innerHTML = "";
   } else {
-    paginatePage();
+    populatePage(books, booksPerPage);
   }
 };
 
