@@ -32,7 +32,7 @@ This is a solution for Hack51 frontend bookstore catelog challenge
 
 # Tackled Each Challenge
 
-- Created a grid book list from the given books json file
+- Created a grid layout book list from the given books json file
 - Implemented filtering system to sort books by genre with HTML Select Tag, used JavaScript to populate the select tag
 - Added a search Input to search for books by Author's or Title's name
 
